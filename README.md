@@ -8,4 +8,6 @@ UHF可以调节识别范围，具体可以看商家给出的数据手册
 
 在esp8266.c中修改WIFI_NAME、WIFI_PASS、SERVER_IP和SERVER_PORT来正常连接网络和服务器
 
+也可以使用阿里云连接云服务器，具体在ali_yun.c中
+
 UHF模块链接：【淘宝】 https://m.tb.cn/h.g5z9uQRuM4f1ZYp?tk=VgMBWAVReYQ CZ0012 「超高频RFID读写模块uhf无源电子标签读写器模组915M射频识别模块」点击链接直接打开 或者 淘宝搜索直接打开
